@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aurora-Nova
 - 👀 I'm intrested in learning computer science
 - 🌱 I’m currently learning Python and JavaScript
-- - 💞️ I’m looking to collaborate on nothing yet... just ask me if you have an idea you want to introduce me to.
+- 💞️ I’m looking to collaborate on nothing yet... just ask me if you have an idea you want to introduce me to.
 - 📫 How to reach me auroranovadelta@gmail.com.
 
 <!---
